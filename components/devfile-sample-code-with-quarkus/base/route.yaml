@@ -8,7 +8,7 @@ metadata:
     app.kubernetes.io/managed-by: kustomize
     app.kubernetes.io/name: devfile-sample-code-with-quarkus
     app.kubernetes.io/part-of: devfile-sample-code-with-quarkus
-  name: devfile-sample-code-with-xs1u
+  name: devfile-sample-code-with-pz3v
   namespace: user1-tenant
 spec:
   path: /
